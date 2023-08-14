@@ -1092,7 +1092,7 @@ EOF
       {
         "type": "field",
         "ip": [
-          $([[ ${config[warp]} == OFF ]] && echo '"geoip:cn", "geoip:ir",')
+          $([[ ${config[warp]} == OFF ]] && echo '"geoip:cn",')
           "0.0.0.0/8",
           "10.0.0.0/8",
           "100.64.0.0/10",
