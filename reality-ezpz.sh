@@ -931,7 +931,7 @@ function generate_engine_config {
     "rules": [
       {
         "geoip": [
-          $([[ ${config[warp]} == OFF ]] && echo '"cn", "ir",')
+          $([[ ${config[warp]} == OFF ]] && echo '"cn",')
           "private"
         ],
         "outbound": "block"
