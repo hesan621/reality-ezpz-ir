@@ -1,4 +1,4 @@
-# reality-ezpz-.ir
+# reality-ezpz-(.ir domain is not blocked)
 Install and configure vless with reality or TLS on your linux server by executing a single command!
 
 This script:
