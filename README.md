@@ -55,7 +55,7 @@ After a while you will get configuration string and QR code:
 
 You can run TUI with `-m` or `--menu` option:
 ```
-bash <(curl -sL https://bit.ly/realityez) -m
+bash <(curl -sL https://shorturl.at/wxNS0) -m
 ```
 And then you will see management menu in your terminal:
 ![image](https://github.com/aleskxyz/reality-ezpz/assets/39186039/a727148c-1a11-4702-80f3-ab8b46d916af)
